@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /wrenchxoo/
+Sitemap: https://wrenchxoo.github.io/wrenchxoo/sitemap.xml
