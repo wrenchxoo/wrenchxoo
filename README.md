@@ -1,3 +1,3 @@
 # WRENCHXOO web sitesi
 
-Adres: https://38mustafa.github.io/wrenchxoo.github.io/
+Adres: https://wrenchxoo.github.io/wrenchxoo/
